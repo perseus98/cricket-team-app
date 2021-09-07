@@ -1,6 +1,7 @@
 # country_player_app
 
 A new Flutter project.
+Api data receiving form : http://test.oye.direct/players.json
 
 ## Getting Started
 
